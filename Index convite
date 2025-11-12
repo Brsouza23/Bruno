@@ -1,0 +1,21 @@
+<div id="convite" style="max-width:800px;margin:40px auto;padding:20px;text-align:center;font-family:'Poppins',sans-serif;color:#222;">
+  <h2 style="font-size:26px;margin-bottom:10px;">Olá! Você é meu convidado(a) especial!</h2>
+  <h1 style="font-size:32px;margin:10px 0;color:#2b2b2b;">Culto Internacional — Trombetas e Festas 2025</h1>
+
+  <p style="font-size:18px;margin:8px 0;">📅 <strong>29 de novembro de 2025</strong> às <strong>17h (Horário de Brasília)</strong></p>
+  <p style="font-size:18px;margin:8px 0;">📍 <strong>Presencial em todas as nossas igrejas</strong></p>
+  <p style="font-size:18px;margin:8px 0;">💻 <strong>Transmissão AO VIVO pelo YouTube</strong></p>
+
+  <a href="https://www.youtube.com/live/n_bLGbaXabk?si=McT2AkePwyF140v-" target="_blank" rel="noopener" style="display:inline-block;margin:14px auto;padding:12px 22px;background:#d32f2f;color:#fff;font-weight:600;border-radius:8px;text-decoration:none;">▶️ Assistir no YouTube</a>
+
+  <p style="margin:22px auto;max-width:640px;line-height:1.5;font-size:16px;">
+    Um momento de adoração, alerta e comunhão para o povo de Deus.  
+    Participe conosco — <strong>presencialmente em nossas igrejas</strong> ou <strong>online pelo YouTube</strong>.  
+    Compartilhe este convite e venha celebrar conosco o <strong>Trombetas e Festas 2025!</strong>
+  </p>
+
+  <div style="margin-top:25px;">
+    <button id="btnGerar" style="margin:5px;padding:10px 16px;border:none;border-radius:8px;background:#4CAF50;color:white;cursor:pointer;">Gerar Novo Convite</button>
+    <button id="btnBaixar" style="margin:5px;padding:10px 16px;border:none;border-radius:8px;background:#2196F3;color:white;cursor:pointer;">Baixar Imagem do Convite</button>
+  </div>
+</div>
